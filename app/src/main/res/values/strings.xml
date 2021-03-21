@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Showcase App</string>
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="profile">Profile</string>
+    <string name="label_photos">PHOTOS</string>
+    <string name="label_about">ABOUT</string>
+
+    <string name="sunday_format">Dom %1$s às %2$s\n</string>
+    <string name="monday_format">Seg %1$s às %2$s\n</string>
+    <string name="tuesday_format">Ter %1$s às %2$s\n</string>
+    <string name="wednesday_format">Qua %1$s às %2$s\n</string>
+    <string name="thursday_format">Qui %1$s às %2$s\n</string>
+    <string name="friday_format">Sex %1$s às %2$s\n</string>
+    <string name="saturday_format">Sáb %1$s às %2$s\n</string>
+
+    <string name="txt_label_schedule">Consultar horário de funcionamento</string>
+    <string name="share">Compartilhar</string>
+</resources>
